@@ -1,0 +1,39 @@
+#menu{
+    float: left;
+    background-color: #dddddd;
+    border: solid 1px;
+  
+}
+
+
+
+.figures {
+    position: absolute;
+    top:50; left:-1000; right:0;
+    margin:20px auto;
+color: #000000;
+display: block;
+font:bold 16px arial;
+height: 35px;
+line-height: 35px;
+text-align: center;
+text-decoration: none;
+
+width: 270px;
+    background: linear-gradient(to bottom, #209DCA, #0F84AF) repeat scroll 0 0 / 100% 200% rgba(0, 0, 0, 0);
+transition: all 0.5s linear 0s;
+    border-bottom: 1px solid #ccc;
+}
+.bot2:hover,.bot2:focus{
+background-position: 0 -102%;
+}
+
+canvas{
+    float: left;
+    
+
+}
+
+
+
+    
